@@ -1,6 +1,6 @@
 ## Kim Woo Seok 👋
 
-ㅇㄹㅁㄴㄹㅇ
+### Info
 <!--
 **WanderedToLa/WanderedToLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
