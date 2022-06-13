@@ -1,4 +1,4 @@
-# Hi 🙌 i'm WooSeok Kim
+# Hi🙌  I'm WooSeok Kim
 
 - 💁🏻‍♂️ I’m currently working on `Javascript` , `React` , `HTML` , `CSS/SCSS`
 - 👀 I’m currently learning `Network / Computer Science` , `Algorithm` , `Python`
