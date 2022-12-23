@@ -1,7 +1,7 @@
-# Hi🙌  I'm WooSeok Kim
+# WooSeok Kim , FE Dev
 
 - 💁🏻‍♂️ I’m currently working on `TypeScript` , `React` , `NEXT.js`
-- 👀 I’m currently learning `Python` , `Clean Code` , `Cloud Hosting` , `Node.js`
+- 👀 I’m currently learning `Computer Science` , `Clean Code` , `Cloud Hosting`
 
 ## Check out my TIL page! 📝
 [![TIL Badge](https://img.shields.io/badge/TIL_Page-white.svg?&style=flat-square&logo=github&logoColor=black&link=https://https://github.com/WanderedToLa/TIL)](https://github.com/WanderedToLa/TIL)
